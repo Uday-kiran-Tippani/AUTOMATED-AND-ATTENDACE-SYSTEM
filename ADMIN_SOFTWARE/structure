@@ -1,0 +1,11 @@
+admin_software/
+│
+├── main.py                   # Entry point
+├── gui/
+│   ├── admin_panel.py        # Admin panel interface
+│   ├── add_students.py       # Add students interface
+│   └── widgets.py            # Common reusable widgets (scrollable frame, buttons)
+├── database/
+│   └── firebase_connection.py # Firebase initialization
+├── face_recognition_utils.py  # Encode images & helper functions
+├── requirements.txt

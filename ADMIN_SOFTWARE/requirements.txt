@@ -1,0 +1,12 @@
+# pip install firebase-admin
+# pip install face_recognition
+# pip install opencv-python
+# pip install numpy
+# pip install cmake
+# pip install dlib
+firebase-admin
+face_recognition
+opencv-python
+numpy
+cmake
+dlib
